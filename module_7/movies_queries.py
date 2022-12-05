@@ -1,5 +1,5 @@
 # Bryce Kellas
-# Module 7 - Movies: Movies Table Queries
+# Module 7 - Movies: Table Queries
 # GitHub: https://github.com/brykellas/csd-310.git
 # mysql-connector-python test
 
